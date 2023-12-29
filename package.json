@@ -1,8 +1,8 @@
 {
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{USER_NAME}"
+    "registry": "https://npm.pkg.github.com/@esra98"
   },
-  "name": "@esra98/Cheerify",
+  "name": "@esra98/cheerify",
   "version": "1.0.0",
   "description": "",
   "type": "module",
